@@ -1,0 +1,16 @@
+
+{
+    "compilerOptions": {
+        "target": "es6",
+        "noImplicitAny": false,
+        "outDir": "app",
+        "sourceMap": false,
+        "module": "commonjs"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
